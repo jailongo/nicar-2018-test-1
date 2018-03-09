@@ -5,8 +5,6 @@ This is a test your mom your mom your mom GitHub.
 The data for this repo came from a **magical unicorn**. The unicorn wanted to remain [anonymous](http://www.erinjmansfield.com) 
 
 # This is where my SQL or python analysis will be described! 
-John! How could you totally out me as a source? 
 
 
 ### Unicorns are lame. 
-I plan to eat pancakes for breakfast. 
