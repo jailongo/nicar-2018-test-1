@@ -21,4 +21,3 @@ This is only going to be updated on the branch.
 
 YET ANOTHER BRANCH 
 
-Here are some of my recommended changes to your repo.
