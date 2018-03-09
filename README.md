@@ -10,6 +10,8 @@ I like pancakes, but not as much as waffles.
 
 ### Unicorns are lame. 
 
+###Unicorns *are* lame...
+
 LALALA
 LALALA
 Now we're gonna create a branch so we don't change the original. 
@@ -18,3 +20,5 @@ John! How could you out me as a source?
 This is only going to be updated on the branch. 
 
 YET ANOTHER BRANCH 
+
+Here are some of my recommended changes to your repo.
